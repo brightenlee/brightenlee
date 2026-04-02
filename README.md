@@ -6,4 +6,4 @@ Designing and building mobile robot software from low-level control to frontend 
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,fastapi,ts,react,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,cpp,py,fastapi,ts,react,docker)](https://skillicons.dev)
