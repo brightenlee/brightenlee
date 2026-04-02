@@ -1,9 +1,9 @@
 # Brighten
 
-### Full-Stack Robotics Engineer
+### 🚀 Full-Stack Robotics Engineer
 
-Designing and building robot software from backend to UI.
+Designing and building mobile robot software from low-level control to frontend web UI.
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,fastapi,ts,react,docker)](https://skillicons.dev)
